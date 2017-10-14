@@ -1,0 +1,18 @@
+{
+  "name": "nova-xterm",
+  "version": "1.0.0",
+  "description": "Nova color scheme for xterm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtanguy/nova-xterm.git"
+  }
+  "author": "Julien Tanguy",
+  "license": "MIT",
+  "dependencies": {
+    "nova-colors": "^2.1.5"
+  }
+}
